@@ -1,8 +1,8 @@
 [{
-        "name": "Skynetsport1",
-        "icon": "https://168dooball.com/storage/logo_channel/sd-skynetsports1.webp",
-        "desc": "Skynet Sport 1 is a free sport channel.",
-        "url": "https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8",
-        "header": {"Connection":"keep-alive","origin":"www.google.com"}
+        "name": "Channel 9",
+        "icon": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-120x120-d4b.jpg",
+        "desc": "Channel 9 is a 24-hour free-to-air television channel that broadcasts entertainment programs. It is run by Sky Net (Skynet DTH), a satellite television operator in Myanmar.",
+        "url": "https://streams.myanmartvchannels.com:999/website-channel9sd/website-channel9sd/chunks.m3u8",
+        "header": {"Connection":"keep-alive","referer":"https://www.myanmartvchannels.com/"}
         
 }]
