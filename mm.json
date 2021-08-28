@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Skynetsport1",
+        "icon": "https://168dooball.com/storage/logo_channel/sd-skynetsports1.webp",
+        "desc": "Skynet Sport 1 is a free sport channel.",
+        "links": [
+            {
+                "name": "Play Link",
+                "url": "https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8",
+                "header": {"Connection":"keep-alive","origin":"www.google.com"}
+            }
+        ]
+    }]
