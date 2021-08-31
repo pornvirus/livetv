@@ -5,4 +5,12 @@
         "url": "https://streams.myanmartvchannels.com:999/website-channel9sd/website-channel9sd/chunks.m3u8",
         "header": {"Connection":"keep-alive","referer":"https://www.myanmartvchannels.com/"}
         
+},
+{
+        "name": "Channel 7",
+        "icon": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-120x120-81c.jpg",
+        "desc": "In 2012, Forever Group Co., Ltd launched the second free-to-air channel called Channel 7, targeting to the younger audience of Myanmar. Channel 7 has become well- known for its youth-oriented programming and its outstanding line-ups including the latest and the most innovative programs in the country today. In 2014, Channel 7 was broadcasted in High Definition quality which can be tuned in using DVB-T2 and DTH systems.",
+        "url": "https://stream.myanmartvchannels.com:999/website-channel7sss/website-channel7sss/chunks.m3u8",
+        "header": {"Connection":"keep-alive","referer":"https://www.myanmartvchannels.com/"}
+        
 }]
